@@ -1,6 +1,5 @@
 # Fingerprint Recognition Using SIFT Algorithm
 
-DePaul University, Adithya Harsha 
 ## Introduction
 This project demonstrates the use of the Scale-Invariant Feature Transform (SIFT) algorithm for fingerprint recognition. The primary goal of the project is to match a sample fingerprint image against a collection of real fingerprint images using keypoint detection and feature matching.
 
@@ -64,4 +63,4 @@ Enhancing performance by applying machine learning techniques for better match s
 Expanding the dataset for better generalization.
 Implementing a real-time fingerprint recognition system.
 
-
+DePaul University, Adithya Harsha 
